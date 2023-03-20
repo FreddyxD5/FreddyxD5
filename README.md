@@ -12,7 +12,7 @@ Backend Web Developer
 <ul>
 	<br>
 	<li>I learned almost all I know about web development through youtube and these books</li>
-	<li>Lately, I've been taking a Bootcamp in Silabuz and learning by myself  </li>
+	<li>Lately, I've been taking a Bootcamp in <a href="https://www.silabuz.com/en" target="_blank">Silabuz</a> and learning by myself  </li>
 	<li>Currently, I've reading Test Driven Development with Python</li>
 	<li>Sometimes I practice Katas(algorithms) on codewars, I'm 5 Kyu now!</li>
 	<li>Python, Django, DjangoREST</li>
