@@ -6,6 +6,20 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<h2 align="left">💻 About me </h2>
+Backend Web Developer
+
+<ul>
+	<br>
+	<li>I learned almost all I know about web development through youtube and these books</li>
+	<li>Lately, I've been taking a Bootcamp in Silabuz and learning by myself  </li>
+	<li>Currently, I've been reading TDD with Python</li>
+	<li>Sometimes I practice Katas(algorithms) on codewars, I'm 5 Kyu now!</li>
+	<li>Python, Django, DjangoREST</li>
+	<li>Javascript, Express, React</li>
+	<li>PostgreSQL</li>	
+</ul>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=freddyxd5&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=freddyxd5&theme=dark&hide_border=false)<br/>
@@ -23,3 +37,4 @@
 	<a href="https://github.com/linder3hs"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/jesuszmore"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>	  	
 </p>
+
